@@ -68,9 +68,8 @@ Smile :)
 
 👤 **Gumaro Monroy**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Movgto](https://github.com/Movgto)
+- LinkedIn: [Gumaro Monroy](https://www.linkedin.com/in/gumaro-monroy-vazquez-1705aa165/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
